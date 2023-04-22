@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -my simple calculator             |  -             | https://github.com/Nii-Lante-Lamptey/my-simple-calculator.git       |
-| 2 |  -mortgage calculator             |  -             | https:// github.com/Nii-Lante-Lamptey/mortgage-calculator.git      |
-| 3 |  -             |  -             | https://       |
+| 1 |  -my simple calculator             |  -my simple calculator             | https://github.com/Nii-Lante-Lamptey/my-simple-calculator.git       |
+| 2 |  -mortgage calculator             |  -mortgage calculator             | https://github.com/Nii-Lante-Lamptey/mortgage-calculator.git  |
+| 3 |  -sales and operation plan             |  -sales and operation plan             | https://github.com/Nii-Lante-Lamptey/sales-and-operation-plan.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
